@@ -1,4 +1,4 @@
-# 
+# Ligero WizTree flujo de trabajo para Mac OS | Oficial WizTree flujo de trabajo para PC Windows. Con procesamiento por lotes y gestión de ventanas — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
